@@ -1,2 +1,3 @@
 GIT Revert Commit 1
+
 This is sample file 1
